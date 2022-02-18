@@ -1,18 +1,19 @@
 using System;
 
-namespace ConsoleApp19
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+namespace ConsoleApp19<br>
+{<br>
+    class Program<br>
+    {<br>
+        static void Main(string[] args)<br>
+        {<br>
+            Console.WriteLine("Hello World!");<br>
+        }<br>
+    }<br>
+}<br>
+<br>
 ![image](https://user-images.githubusercontent.com/97939934/154427847-cfaea340-aa44-43ea-9374-e8fef8963d26.png)
-
-
+<br>
+<br>
 
 
 *1. C# Program to Print a Binary Triangle.*
